@@ -1,11 +1,12 @@
 👋 Olá, eu sou Wilson Carlos !
-Estudante de programação e graduando na área  de Análise e Desenvolvimento de Sistemas. Particularmente estudo JavaScript e outras tecnologias para front-end, node.js para back-end e PostgreSQL para banco de dados. Dessa forma, desejo desenvolver aplicações web e trabalhar com o desenvolvimento de APIs,com o objetivo de me tornar Full-stack. Portanto,busco ingressar no mercado de tecnologia e desenvolvimento como estagiário ou júnior para aplicar e expandir meus conhecimentos.
+
+- Estudante de programação e graduando na área  de Análise e Desenvolvimento de Sistemas. Particularmente estudo JavaScript e outras tecnologias para front-end, node.js para back-end e PostgreSQL para banco de dados. Dessa forma, desejo desenvolver aplicações web e trabalhar com o desenvolvimento de APIs,com o objetivo de me tornar Full-stack. Portanto,busco ingressar no mercado de tecnologia e desenvolvimento como estagiário ou júnior para aplicar e expandir meus conhecimentos.
 
 🛠️ Habilidades
-Frontend: HTML, CSS,Tailwind CSS, JavaScript.
-Back-end: Node.js,  Drizzle ORM.
-Banco de Dados : PostgreSQL. 
-Ferramentas de vercionamento de codigo: Git & GitHub.
+- Frontend: HTML, CSS,Tailwind CSS, JavaScript.
+- Back-end: Node.js,  Drizzle ORM.
+- Banco de Dados : PostgreSQL. 
+- Ferramentas de vercionamento de codigo: Git & GitHub.
 
 
 📚 Projetos Relevantes :
@@ -23,13 +24,13 @@ Repositorio no github: https://github.com/carlosribeiro25/Sistema-bar.git
 
 🎯 Objetivos
 
-Consolidar meus estudos em JavaScript e bancos de dados para o desenvolvimento Full-stack
+- Consolidar meus estudos em JavaScript e bancos de dados para o desenvolvimento Full-stack
 
-Desenvolver projetos pessoais e empresariais.
+- Desenvolver projetos pessoais e empresariais.
 
-Primeira vaga no mercado de trabalho
+- Primeira vaga no mercado de trabalho
 
 🎓 Formação Acadêmica
 
-Formação Full-Stack | Digital College- (Conclusão: Jul/2025 - 192h)
-Tecnólogo em Análise e Desenvolvimento de Sistemas | Estacio CE (Em andamento)
+- Formação Full-Stack | Digital College- (Conclusão: Jul/2025 - 192h)
+- Tecnólogo em Análise e Desenvolvimento de Sistemas | Estacio CE (Em andamento)
