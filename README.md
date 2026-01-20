@@ -13,7 +13,7 @@ Ferramentas de vercionamento de codigo: Git & GitHub.
 Stacks: Tailwind CSS, React js, HTML, Phosphor icon, git e github.
 Repositorio no github: https://github.com/carlosribeiro25/Drip-Store.git
 
-Controle de Compras - CEASA 
+- Controle de Compras - CEASA 
 Um aplicação web para mobile com o objetivo de gerenciar e controlar o recebimento de produtos agrícolas do CEASA (Centrais de Abastecimento).Criado com a finalidade de substituir o uso da folha em papel, permitindo o controle, recebimento de mercadorias e status de entrega de múltiplos fornecedores, para o abastecimento de dois restaurantes.
 Repositorio no github: https://ceasa-xi.vercel.app/
 
